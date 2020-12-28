@@ -1,0 +1,13 @@
+[package]
+name = "tros"
+version = "0.1.0"
+authors = ["Shankar Nakai <shankar@otus.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[dev-dependencies]
+quickcheck = "0.9.2"
+quickcheck_macros = "0.9.1"
